@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "189963836661",
+    "firebase_url": "https://ecommercewithrn.firebaseio.com",
+    "project_id": "ecommercewithrn",
+    "storage_bucket": "ecommercewithrn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189963836661:android:87dde81c77f3e5a8b439bc",
+        "android_client_info": {
+          "package_name": "com.splash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189963836661-0jn3kktmbium63is1pms22ofpqta71sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1wrVaeiEJlxsfPgQik8jNS3YvllIVd-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189963836661-0jn3kktmbium63is1pms22ofpqta71sh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
